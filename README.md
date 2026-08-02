@@ -51,10 +51,12 @@ Busco unir tecnologia, pensamento analítico e inteligência de dados para gerar
   <img alt="Power BI" title="Power BI" width="36px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" />
   <!-- Python -->
   <img alt="Python" title="Python" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <!-- Excel -->
-  <img alt="Excel" title="Microsoft Excel" width="36px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
   <!-- SQL -->
   <img alt="SQL" title="SQL" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <!-- n8n -->
+  <img alt="n8n" title="n8n" width="36px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/n8n/EA4B71" />
+  <!-- Excel -->
+  <img alt="Excel" title="Microsoft Excel" width="36px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
   <!-- Figma -->
   <img alt="Figma" title="Figma" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
