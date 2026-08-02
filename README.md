@@ -19,17 +19,17 @@
 
 ---
 
-### 📝 Sobre Mim
+## 📝 Sobre Mim
 
 **Transformando dados brutos em insights estratégicos para gerar valor, otimizar processos e apoiar decisões corporativas inteligentes.**
 
-🎓 **Formação Acadêmica**
+## 🎓 Formação Acadêmica
 * **Graduado** em Análise e Desenvolvimento de Sistemas
 * **Pós-graduado** em Análise de Dados
 
----
 
-### 🤖 Linguagens e Ferramentas
+
+## 🤖 Linguagens e Ferramentas
 
 <p align="left">
   <img alt="Power BI" title="Power BI" width="36px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" />
