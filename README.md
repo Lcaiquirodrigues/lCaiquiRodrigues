@@ -36,6 +36,5 @@
   <img alt="Python" title="Python" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Excel" title="Microsoft Excel" width="36px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
   <img alt="SQL" title="SQL" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img alt="n8n" title="n8n" width="36px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/n8n.png" />
   <img alt="Figma" title="Figma" width="36px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
