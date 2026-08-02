@@ -24,8 +24,8 @@
 **Transformando dados brutos em insights estratégicos para gerar valor, otimizar processos e apoiar decisões corporativas inteligentes.**
 
 🎓 **Formação Acadêmica**
-* **Pós-graduado** em Análise de Dados
 * **Graduado** em Análise e Desenvolvimento de Sistemas
+* **Pós-graduado** em Análise de Dados
 
 ---
 
